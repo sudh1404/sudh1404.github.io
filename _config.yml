@@ -21,9 +21,10 @@ author: Sudharshana Suryanarayanan
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Courses:
+    - Academic: "courses/academic/"
+    - Others+: "courses/others/"
+  Author's home: https://sudh1404.github.io/"
 
 ################
 # --- Logo --- #
